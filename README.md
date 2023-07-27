@@ -13,5 +13,5 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 
 <div align="center">
-<img src="./assets/img2.gif", width="800">
+<img src="./assets/img2.gif", width="750">
 </div>
