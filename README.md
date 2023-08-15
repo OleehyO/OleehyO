@@ -15,3 +15,11 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <div align="center">
 <img src="./assets/img2.gif", width="750">
 </div>
+
+---
+<i>Follow me around the web:</i><br>
+
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-gold?style=flat-square)](https://huggingface.co/OleehyO)
+
+
+
