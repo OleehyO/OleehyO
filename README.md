@@ -1,27 +1,29 @@
 <div align="center">
-<img src="./assets/img1.gif", width="150", height="75">
+  <h1 align="center"> <img src="./assets/cool-doge.gif" width="30"/> Hey, I'm OleehyO</h1>
 </div>
 
+```python
+class Attributes(OleehyO):
+    @staticmethod
+    def contact() -> tuple:
+        email         = "1258009915 [at] qq.com"
+        homepage      = "https://github.com/OleehyO"
+        huggingface   = "https://huggingface.co/OleehyO"
+        return email, homepage, huggingface
 
-<div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="./assets/Hi.gif" width="30"></h2>
+    @staticmethod
+    def research() -> list:
+        interesting = ['Large Language Models', 'Machine Learning Systems']
+        return interesting
+
+    @staticmethod
+    def project() -> list:
+        TexTeller = "https://github.com/OleehyO/TexTeller"
+        project_lst = [TexTeller]
+        return project_lst
+```
+
+<!-- ![ visitors ](https://visitor-badge.glitch.me/badge?page_id=huybery.huybery) -->
 
 
-<div align="center">
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-<p><img src="./assets/sun.svg" width=20></img>𝐻𝘢𝑝𝘱𝑦 𝑐𝘰𝑑𝘪𝑛𝘨!<img src="./assets/sun.svg" width=20> </p>
-</div>
-
-
-<div align="center">
-<img src="./assets/img2.gif", width="600">
-</div>
-
----
-<i>Follow me around the web:</i><br>
-
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-gold?style=flat-square)](https://huggingface.co/OleehyO)
-
-
-
+<!-- <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up."> -->
