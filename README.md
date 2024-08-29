@@ -6,7 +6,7 @@
 class Attributes(OleehyO):
     @staticmethod
     def contact() -> tuple:
-        email         = "1258009915 [at] qq.com"
+        email         = "leehy0357 [at] gmail.com"
         homepage      = "https://github.com/OleehyO"
         huggingface   = "https://huggingface.co/OleehyO"
         return email, homepage, huggingface
