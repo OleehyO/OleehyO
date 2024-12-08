@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center"> <img src="./assets/cool-doge.gif" width="30"/> Hey, I'm OleehyO</h1>
+  <h3 align="center"> <img src="./assets/cool-doge.gif" width="30"/> Hey, I'm OleehyO</h3>
 </div>
 
 <!-- ```python
