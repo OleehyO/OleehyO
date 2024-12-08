@@ -2,7 +2,7 @@
   <h1 align="center"> <img src="./assets/cool-doge.gif" width="30"/> Hey, I'm OleehyO</h1>
 </div>
 
-```python
+<!-- ```python
 class Attributes(OleehyO):
     @staticmethod
     def contact() -> tuple:
@@ -21,7 +21,7 @@ class Attributes(OleehyO):
         TexTeller = "https://github.com/OleehyO/TexTeller"
         project_lst = [TexTeller]
         return project_lst
-```
+``` -->
 
 <!-- ![ visitors ](https://visitor-badge.glitch.me/badge?page_id=huybery.huybery) -->
 
